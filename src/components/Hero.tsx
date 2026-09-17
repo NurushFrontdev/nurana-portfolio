@@ -33,7 +33,7 @@ export function Hero() {
             href="#projects"
             className="px-8 py-3 bg-neutral-800 hover:bg-neutral-700 text-neutral-50 rounded-lg transition-colors"
           >
-            İşə baxın{" "}
+            Layihələrə baxın{" "}
           </a>
         </div>
 

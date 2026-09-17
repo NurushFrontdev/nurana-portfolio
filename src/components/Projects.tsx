@@ -32,16 +32,16 @@ export function Projects() {
     {
       title: "SmartEdu",
       description: "",
-      tags: ["PHP", "HTML", "CSS", "SQL"],
+      tags: ["PHP", "HTML", "CSS", "SQL", "JavaScript"],
       status: "Hazırlanır",
     },
 
     {
       title: "Dövlət və elmi veb layihələr",
       description:
-        "Literature.az, AMEA və digər elektron dövlət və elmi platformalar üçün hazırlanmış veb layihələr üzərində işlər.",
+        "Literature.az layihəsini sıfırdan hazırlamış, həmçinin AMEA üçün müxtəlif kiçik veb layihələri hazırlamışam.",
       tags: ["PHP", "HTML", "CSS", "JavaScript", "SQL"],
-      sites: ["Literature.az", "AMEA", "Elektron xidmətlər"],
+      sites: ["Literature.az", "AMEA"],
     },
   ];
 
